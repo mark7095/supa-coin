@@ -1,2 +1,2 @@
 # supa-coin
-Sugar Paws (SUPA) meme coin metadata
+Sugar Paws (SGPW) meme coin metadata
